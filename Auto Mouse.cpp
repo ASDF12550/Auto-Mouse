@@ -5,7 +5,6 @@
 #include <random>
 #include <string>
 
-std::string Speed_str;
 bool Enabled = false;
 HDC Program_dc;
 
